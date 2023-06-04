@@ -12,7 +12,7 @@ In these lessons we'll learn the basics of NLP by building small conversational 
 > Photo by <a href="https://unsplash.com/@elaineh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elaine Howlin</a> on <a href="https://unsplash.com/s/photos/pride-and-prejudice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Lessons
-
+BUR-DA-YIM
 1. [Introduction to natural language processing](1-Introduction-to-NLP/README.md)
 2. [Common NLP tasks and techniques](2-Tasks/README.md)
 3. [Translation and sentiment analysis with machine learning](3-Translation-Sentiment/README.md)
